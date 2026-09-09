@@ -1,0 +1,17 @@
+{
+  "name": "backend_api_project",
+  "version": "1.0.0",
+  "description": "a project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Duc Anh",
+  "license": "ISC"
+}
